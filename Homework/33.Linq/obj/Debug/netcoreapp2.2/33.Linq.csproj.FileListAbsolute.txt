@@ -1,0 +1,11 @@
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\obj\Debug\netcoreapp2.2\33.Linq.csprojAssemblyReference.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\obj\Debug\netcoreapp2.2\33.Linq.csproj.CoreCompileInputs.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\obj\Debug\netcoreapp2.2\33.Linq.AssemblyInfoInputs.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\obj\Debug\netcoreapp2.2\33.Linq.AssemblyInfo.cs
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\bin\Debug\netcoreapp2.2\33.Linq.deps.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\bin\Debug\netcoreapp2.2\33.Linq.runtimeconfig.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\bin\Debug\netcoreapp2.2\33.Linq.runtimeconfig.dev.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\bin\Debug\netcoreapp2.2\33.Linq.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\bin\Debug\netcoreapp2.2\33.Linq.pdb
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\obj\Debug\netcoreapp2.2\33.Linq.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\33.Linq\obj\Debug\netcoreapp2.2\33.Linq.pdb
