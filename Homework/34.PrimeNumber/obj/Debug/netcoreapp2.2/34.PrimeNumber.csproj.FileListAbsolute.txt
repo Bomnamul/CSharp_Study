@@ -1,0 +1,11 @@
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\obj\Debug\netcoreapp2.2\34.PrimeNumber.csprojAssemblyReference.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\obj\Debug\netcoreapp2.2\34.PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\obj\Debug\netcoreapp2.2\34.PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\obj\Debug\netcoreapp2.2\34.PrimeNumber.AssemblyInfo.cs
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\bin\Debug\netcoreapp2.2\34.PrimeNumber.deps.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\bin\Debug\netcoreapp2.2\34.PrimeNumber.runtimeconfig.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\bin\Debug\netcoreapp2.2\34.PrimeNumber.runtimeconfig.dev.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\bin\Debug\netcoreapp2.2\34.PrimeNumber.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\bin\Debug\netcoreapp2.2\34.PrimeNumber.pdb
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\obj\Debug\netcoreapp2.2\34.PrimeNumber.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\34.PrimeNumber\obj\Debug\netcoreapp2.2\34.PrimeNumber.pdb
