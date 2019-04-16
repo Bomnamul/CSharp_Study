@@ -1,0 +1,11 @@
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\obj\Debug\netcoreapp2.2\37.CircularQueue.csprojAssemblyReference.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\obj\Debug\netcoreapp2.2\37.CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\obj\Debug\netcoreapp2.2\37.CircularQueue.AssemblyInfoInputs.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\obj\Debug\netcoreapp2.2\37.CircularQueue.AssemblyInfo.cs
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\bin\Debug\netcoreapp2.2\37.CircularQueue.deps.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\bin\Debug\netcoreapp2.2\37.CircularQueue.runtimeconfig.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\bin\Debug\netcoreapp2.2\37.CircularQueue.runtimeconfig.dev.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\bin\Debug\netcoreapp2.2\37.CircularQueue.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\bin\Debug\netcoreapp2.2\37.CircularQueue.pdb
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\obj\Debug\netcoreapp2.2\37.CircularQueue.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\37.CircularQueue\obj\Debug\netcoreapp2.2\37.CircularQueue.pdb

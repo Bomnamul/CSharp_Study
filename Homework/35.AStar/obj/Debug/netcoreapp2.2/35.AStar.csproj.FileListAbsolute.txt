@@ -1,0 +1,11 @@
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\bin\Debug\netcoreapp2.2\35.AStar.deps.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\bin\Debug\netcoreapp2.2\35.AStar.runtimeconfig.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\bin\Debug\netcoreapp2.2\35.AStar.runtimeconfig.dev.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\bin\Debug\netcoreapp2.2\35.AStar.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\bin\Debug\netcoreapp2.2\35.AStar.pdb
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\obj\Debug\netcoreapp2.2\35.AStar.csprojAssemblyReference.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\obj\Debug\netcoreapp2.2\35.AStar.csproj.CoreCompileInputs.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\obj\Debug\netcoreapp2.2\35.AStar.AssemblyInfoInputs.cache
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\obj\Debug\netcoreapp2.2\35.AStar.AssemblyInfo.cs
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\obj\Debug\netcoreapp2.2\35.AStar.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\35.AStar\obj\Debug\netcoreapp2.2\35.AStar.pdb
