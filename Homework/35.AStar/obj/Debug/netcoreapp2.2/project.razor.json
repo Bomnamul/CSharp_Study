@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\35.AStar.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
