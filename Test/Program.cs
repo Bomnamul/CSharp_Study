@@ -1,15 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class MainClass {
-  public static void Main (string[] args) {
+class MainClass
+{
+  public static void Main (string[] args)
+  {
     Action<object> print = Console.WriteLine;
   
   }
 }
 
-public static class ClassExtension {
-  public static string Stringify<T>(this IEnumerable<T> list) {
+public static class ClassExtension
+{
+  public static string Stringify<T>(this IEnumerable<T> list)
+  {
     return String.Join(" ", list);
   }
 }
