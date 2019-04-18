@@ -2,3 +2,10 @@ C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\obj
 C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\obj\Debug\netcoreapp2.2\39.BresenhamAlgo.csproj.CoreCompileInputs.cache
 C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\obj\Debug\netcoreapp2.2\39.BresenhamAlgo.AssemblyInfoInputs.cache
 C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\obj\Debug\netcoreapp2.2\39.BresenhamAlgo.AssemblyInfo.cs
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\bin\Debug\netcoreapp2.2\39.BresenhamAlgo.deps.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\bin\Debug\netcoreapp2.2\39.BresenhamAlgo.runtimeconfig.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\bin\Debug\netcoreapp2.2\39.BresenhamAlgo.runtimeconfig.dev.json
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\bin\Debug\netcoreapp2.2\39.BresenhamAlgo.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\bin\Debug\netcoreapp2.2\39.BresenhamAlgo.pdb
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\obj\Debug\netcoreapp2.2\39.BresenhamAlgo.dll
+C:\Users\wdv12.DESKTOP-0NVAVIH\CSharp\CSharp_Study\Homework\39.BresenhamAlgo\obj\Debug\netcoreapp2.2\39.BresenhamAlgo.pdb
