@@ -72,7 +72,7 @@ namespace _39.BresenhamAlgo
             // double b = start.X - ((h / w) * start.Y);
             // double y = ((h / w) * x) + b;
 
-            return y;
+            return -1;
         }
     }
     public class Node

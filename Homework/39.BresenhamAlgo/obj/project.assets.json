@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\.nuget\\packages\\": {},
+    "C:\\Users\\wdv12\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\39.BresenhamAlgo\\39.BresenhamAlgo.csproj",
+      "projectUniqueName": "C:\\Users\\wdv12\\DGA\\CSharp_Study\\Homework\\39.BresenhamAlgo\\39.BresenhamAlgo.csproj",
       "projectName": "39.BresenhamAlgo",
-      "projectPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\39.BresenhamAlgo\\39.BresenhamAlgo.csproj",
-      "packagesPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\39.BresenhamAlgo\\obj\\",
+      "projectPath": "C:\\Users\\wdv12\\DGA\\CSharp_Study\\Homework\\39.BresenhamAlgo\\39.BresenhamAlgo.csproj",
+      "packagesPath": "C:\\Users\\wdv12\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wdv12\\DGA\\CSharp_Study\\Homework\\39.BresenhamAlgo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\wdv12\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
