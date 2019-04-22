@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\34.PrimeNumber.csproj": {}
+    "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\34.PrimeNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\34.PrimeNumber.csproj": {
+    "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\34.PrimeNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\34.PrimeNumber.csproj",
+        "projectUniqueName": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\34.PrimeNumber.csproj",
         "projectName": "34.PrimeNumber",
-        "projectPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\34.PrimeNumber.csproj",
+        "projectPath": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\34.PrimeNumber.csproj",
         "packagesPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\obj\\",
+        "outputPath": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\34.PrimeNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

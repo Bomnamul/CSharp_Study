@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\35.AStar.csproj": {}
+    "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\35.AStar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\35.AStar.csproj": {
+    "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\35.AStar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\35.AStar.csproj",
+        "projectUniqueName": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\35.AStar.csproj",
         "projectName": "35.AStar",
-        "projectPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\35.AStar.csproj",
+        "projectPath": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\35.AStar.csproj",
         "packagesPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\obj\\",
+        "outputPath": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\35.AStar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

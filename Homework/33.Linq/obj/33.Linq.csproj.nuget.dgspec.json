@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\33.Linq.csproj": {}
+    "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\33.Linq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\33.Linq.csproj": {
+    "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\33.Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\33.Linq.csproj",
+        "projectUniqueName": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\33.Linq.csproj",
         "projectName": "33.Linq",
-        "projectPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\33.Linq.csproj",
+        "projectPath": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\33.Linq.csproj",
         "packagesPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\obj\\",
+        "outputPath": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\33.Linq\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

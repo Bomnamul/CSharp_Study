@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\37.CircularQueue.csproj": {}
+    "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\37.CircularQueue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\37.CircularQueue.csproj": {
+    "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\37.CircularQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\37.CircularQueue.csproj",
+        "projectUniqueName": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\37.CircularQueue.csproj",
         "projectName": "37.CircularQueue",
-        "projectPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\37.CircularQueue.csproj",
+        "projectPath": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\37.CircularQueue.csproj",
         "packagesPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\obj\\",
+        "outputPath": "c:\\Users\\wdv12.DESKTOP-0NVAVIH\\CSharp\\CSharp_Study\\Homework\\37.CircularQueue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
