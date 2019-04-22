@@ -67,10 +67,10 @@ namespace _39.BresenhamAlgo
         }
         public double Solver(Node start, Node end)
         {
-            int w = end.Y - start.Y;
-            int h = end.X - start.X;
-            double b = start.X - ((h / w) * start.Y);
-            double y = ((h / w) * x) + b;
+            // int w = end.Y - start.Y;
+            // int h = end.X - start.X;
+            // double b = start.X - ((h / w) * start.Y);
+            // double y = ((h / w) * x) + b;
 
             return y;
         }
