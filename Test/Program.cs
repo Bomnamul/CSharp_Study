@@ -19,6 +19,8 @@ public static class ClassExtension
 }
 
 /*
+CSharp Homework
+
 2019-04-15
 1. Linq
 
@@ -75,3 +77,16 @@ CheckPrimerNumber p = new CheckPrimerNumber();
 구현?
 
 */
+
+/*
+Unity Homework
+
+1. MonoBehaviour: BFS, DFS Traversal
+
+2. Roaming
+slime, plane, list[] waypoints - purple, yellow, mob, (0, 0, 0) - green
+
+character rotation
+
+transform foreach로 list[] waypoints 각각 이동 - translate(param, param(world 값))
+ */
