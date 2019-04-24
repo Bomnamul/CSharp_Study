@@ -69,8 +69,9 @@ namespace _39.BresenhamAlgo
         {
             // int w = end.Y - start.Y;
             // int h = end.X - start.X;
-            // double b = start.X - ((h / w) * start.Y);
-            // double y = ((h / w) * x) + b;
+
+            // -2W( y - yl ) + 2H ( x - xl ) < 0     // 직선보다 위에 있을때
+            // -2W( y - yl ) + 2H ( x - xl ) > 0     // 직선보다 아래 있을때
 
             return -1;
         }

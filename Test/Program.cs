@@ -81,14 +81,4 @@ CheckPrimerNumber p = new CheckPrimerNumber();
 /*
 Unity Homework
 
-2019-04-24
-
-1.
-stage
-script Selection()
-Angle 90 (잘 고려해서 할 것)
-Duration 1
-SelectCharacter
-
-스페이스 누르면 90도 돌아감
  */
