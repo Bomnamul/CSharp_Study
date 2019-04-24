@@ -81,12 +81,14 @@ CheckPrimerNumber p = new CheckPrimerNumber();
 /*
 Unity Homework
 
-1. MonoBehaviour: BFS, DFS Traversal
+2019-04-24
 
-2. Roaming
-slime, plane, list[] waypoints - purple, yellow, mob, (0, 0, 0) - green
+1.
+stage
+script Selection()
+Angle 90 (잘 고려해서 할 것)
+Duration 1
+SelectCharacter
 
-character rotation
-
-transform foreach로 list[] waypoints 각각 이동 - translate(param, param(world 값))
+스페이스 누르면 90도 돌아감
  */
